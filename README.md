@@ -1,16 +1,19 @@
 #Praktikum 3
-###Hallo nama saya Nadya Khairunnisa, disini saya akan memberikan tutorial cara menginstall Pycharm dan membuat project di Pycharm tersebut.
+Hallo nama saya Nadya Khairunnisa, disini saya akan memberikan tutorial cara menginstall Pycharm dan membuat project di Pycharm tersebut.
 
 # Cara Installasi Pycharm #
 Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
 
 ![198814989-ba36149f-cf88-492d-bb12-d00398751be4](https://user-images.githubusercontent.com/115801823/199205776-4856c833-6dc6-4e5f-87d8-204cb4d27a70.png)
+
 next saja semua perintahnya 
 
 ![198933464-45381f87-f77d-4ace-bc48-0bef2d8e66a0](https://user-images.githubusercontent.com/115801823/199205892-e4dcef46-b637-4df9-97df-f46a38157538.png)
+
 tunggu hingga selesai
 
 ![198933506-e6659704-6c9f-48ea-bdc9-5b44ceadc8a3](https://user-images.githubusercontent.com/115801823/199206001-a3a19826-5abc-4f44-a206-f6caa04b34a9.png)
+
 Jika sudah selesai maka program siap di gunakan
 
 # Cara Menjalankan Pycharm 
@@ -164,25 +167,25 @@ Hasil Run
 # Menghitung Luas Dan Keliling Lingkaran #
 buat file baru "praktikum3"
 
-  import math
-  def keliling():
-    global k
-    k = 2 * math.pi * r
+  	import math
+  	def keliling():
+    	global k
+    	k = 2 * math.pi * r
   
-  def luas():
-    global l
-    r2 = r ** 2
-    l = math.pi * r2
+  	def luas():
+    	global l
+    	r2 = r ** 2
+	l = math.pi * r2
 
-  print("--------------------------------------------------------")
-  r = float(input("Masukkan nilai jari-jari lingkaran "))
-  keliling()
-  luas()
-  print("--------------------------------------------------------")
-  print("Besar keliling lingkaran dengan jari-jari", r, "adalah", k)
-  print("--------------------------------------------------------")
-  print("Besar luas lingkaran dengan jari-jari", r, "adalah", l)
-  print("--------------------------------------------------------")
+	  print("--------------------------------------------------------")
+	  r = float(input("Masukkan nilai jari-jari lingkaran "))
+	  keliling()
+	  luas()
+	  print("--------------------------------------------------------")
+	  print("Besar keliling lingkaran dengan jari-jari", r, "adalah", k)
+	  print("--------------------------------------------------------")
+	  print("Besar luas lingkaran dengan jari-jari", r, "adalah", l)
+	  print("--------------------------------------------------------")
   
 ![2022-10-31 (16)](https://user-images.githubusercontent.com/115801823/199210947-6138f7a8-9968-4ae8-b7a5-5770e7159f1d.png)
 
