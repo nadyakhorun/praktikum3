@@ -1,4 +1,5 @@
-#Praktikum 3
+Praktikum 3
+
 Hallo nama saya Nadya Khairunnisa, disini saya akan memberikan tutorial cara menginstall Pycharm dan membuat project di Pycharm tersebut.
 
 # Cara Installasi Pycharm #
@@ -23,6 +24,7 @@ Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yan
 
 ![198815436-8756894e-4eb0-4b58-81fe-165afda78652](https://user-images.githubusercontent.com/115801823/199206623-da8f146f-a959-4916-9b6a-c4116fc83a05.png)
 ![198815442-dbfb3a6e-1d2f-4fdf-b205-1f7ddfb8b16c](https://user-images.githubusercontent.com/115801823/199206702-8c1f921d-97c0-477c-811e-9093e2ffb408.png)
+
 Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
 
 ![198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a](https://user-images.githubusercontent.com/115801823/199206930-86998bd7-f99a-420a-80ac-c272b72774b7.png)
